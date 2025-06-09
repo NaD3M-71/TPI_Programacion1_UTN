@@ -49,10 +49,10 @@ El programa permite elegir entre:
 
 Se midió el tiempo de ejecución con `time.time()` y se obtuvieron resultados como:
 
-| Algoritmo         | Pasadas | Tiempo (1000 elementos) |
-|-------------------|---------|--------------------------|
-| Bubble Sort       | 990     | 48.697 ms               |
-| Cocktail Sort     | 260     | 66.286 ms               |
+| Algoritmo         | Pasadas | Tiempo (2500 elementos) |
+|-------------------|---------|-------------------------|
+| Bubble Sort       | 2471    | 317.611.697 ms          |
+| Cocktail Sort     | 627     | 299.108 ms               |
 
 ---
 
