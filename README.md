@@ -64,9 +64,15 @@ Se midió el tiempo de ejecución con `time.time()` y se obtuvieron resultados c
 **Comisión:** 21  
 **Carrera:** Tecnicatura Universitaria en Programación a distancia.
 **Institución:** Universidad Tecnológica Nacional (UTN).
-**Video Explicativo:**
-      Drive: https://drive.google.com/file/d/1v0EIrgZOi8LLT3j3btX_xC0I8f2dBTt4/view?usp=sharing
-      Youtube: https://youtu.be/xxEef6YQc4c
+
+---
+
+
+##  Video explicativo
+
+- **Drive de descarga:** [https://drive.google.com/file/d/1v0EIrgZOi8LLT3j3btX_xC0I8f2dBTt4/view?usp=sharing](https://drive.google.com/file/d/1v0EIrgZOi8LLT3j3btX_xC0I8f2dBTt4/view?usp=sharing)  
+- **YouTube:** [https://youtu.be/xxEef6YQc4c](https://youtu.be/xxEef6YQc4c)
+
 ---
 
 ##  Fuentes Consultadas
